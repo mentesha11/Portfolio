@@ -17,4 +17,4 @@ Visit my live portfolio: [mantashashvili-portfolio.netlify.app](https://mantasha
    `npm start`
 ## Contact
 
-Connect with me via email at [your-email@example.com](mantashashvili17@gmail.com)
+Connect with me via email at [mantashashvili17@gmail.com](mantashashvili17@gmail.com)
