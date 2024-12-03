@@ -1,8 +1,20 @@
-# React + Vite
+# React Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Visit my live portfolio: [mantashashvili-portfolio.netlify.app](https://mantashashvili-portfolio.netlify.app/)
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Frontend**: React.js, Tailwind CSS  
+- **Hosting**: Netlify  
+
+## Run Locally
+
+1. Clone the repo:  
+   `git clone https://github.com/mentesha11/portfolio.git`
+2. Install dependencies:  
+   `npm install`
+3. Start the server:  
+   `npm start`
+## Contact
+
+Connect with me via email at [your-email@example.com](mantashashvili17@gmail.com)
